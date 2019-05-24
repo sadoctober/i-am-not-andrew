@@ -1,0 +1,24 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Desc",
+  "main": "index.js",
+  "dependencies": {
+    "heroku": "^7.24.4",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadoctober/i-am-not-andrew.git"
+  },
+  "author": "yaroslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadoctober/i-am-not-andrew/issues"
+  },
+  "homepage": "https://github.com/sadoctober/i-am-not-andrew#readme"
+}
